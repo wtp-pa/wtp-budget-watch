@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-09-01",
+  "lastUpdated": "2026-09-07",
   "fiscalYear": "FY 2025 (federal)",
   "fiscalYearStart": "2024-10-01",
   "fiscalYearEnd": "2025-09-30",
-  "totalObligationsUSD": 238135062902,
+  "totalObligationsUSD": 238136308607,
   "countyCount": 67,
   "source": {
     "primary": "USAspending.gov",
@@ -16,16 +16,16 @@
     {
       "fips": "42001",
       "name": "Adams County",
-      "totalObligationsUSD": 823649806,
+      "totalObligationsUSD": 824099443,
       "population": 103852,
-      "perCapitaUSD": 7931.0
+      "perCapitaUSD": 7935.33
     },
     {
       "fips": "42003",
       "name": "Allegheny County",
-      "totalObligationsUSD": 25721909237,
+      "totalObligationsUSD": 25721656692,
       "population": 1250578,
-      "perCapitaUSD": 20568.02
+      "perCapitaUSD": 20567.81
     },
     {
       "fips": "42005",
@@ -44,9 +44,9 @@
     {
       "fips": "42009",
       "name": "Bedford County",
-      "totalObligationsUSD": 383428299,
+      "totalObligationsUSD": 383703594,
       "population": 47577,
-      "perCapitaUSD": 8059.11
+      "perCapitaUSD": 8064.9
     },
     {
       "fips": "42011",
@@ -107,9 +107,9 @@
     {
       "fips": "42027",
       "name": "Centre County",
-      "totalObligationsUSD": 1522686264,
+      "totalObligationsUSD": 1523348867,
       "population": 158172,
-      "perCapitaUSD": 9626.78
+      "perCapitaUSD": 9630.96
     },
     {
       "fips": "42029",
@@ -149,9 +149,9 @@
     {
       "fips": "42039",
       "name": "Crawford County",
-      "totalObligationsUSD": 683370134,
+      "totalObligationsUSD": 683300806,
       "population": 83938,
-      "perCapitaUSD": 8141.37
+      "perCapitaUSD": 8140.54
     },
     {
       "fips": "42041",
@@ -184,9 +184,9 @@
     {
       "fips": "42049",
       "name": "Erie County",
-      "totalObligationsUSD": 2061951925,
+      "totalObligationsUSD": 2062021254,
       "population": 270876,
-      "perCapitaUSD": 7612.16
+      "perCapitaUSD": 7612.42
     },
     {
       "fips": "42051",
@@ -261,9 +261,9 @@
     {
       "fips": "42071",
       "name": "Lancaster County",
-      "totalObligationsUSD": 3723259410,
+      "totalObligationsUSD": 3723280124,
       "population": 552984,
-      "perCapitaUSD": 6733.03
+      "perCapitaUSD": 6733.07
     },
     {
       "fips": "42073",
@@ -345,9 +345,9 @@
     {
       "fips": "42095",
       "name": "Northampton County",
-      "totalObligationsUSD": 2237811685,
+      "totalObligationsUSD": 2237901685,
       "population": 312951,
-      "perCapitaUSD": 7150.68
+      "perCapitaUSD": 7150.97
     },
     {
       "fips": "42097",
